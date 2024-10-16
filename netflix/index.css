@@ -31,7 +31,7 @@ nav{
     width: 150px;
     cursor: pointer;
 }
-nav button{
+nav button {
     border: 0;
     outline: 0;
     background: #db0001;
@@ -42,6 +42,13 @@ nav button{
     margin-left: 4px;
     margin-left: 10px;
     cursor: pointer;
+}
+
+nav select{
+    background-color: transparent;
+    color: #fff;
+    font-size: 15px;
+    border: none;
 }
 
 .language-btn{
@@ -81,6 +88,7 @@ nav button{
     align-items: center;
     margin-top: 30px;
     overflow: hidden;
+   
 }
 .emain-signup input{
     flex: 1;
@@ -88,6 +96,7 @@ nav button{
     outline: 0;
     margin-left: 20px;
     
+    color: #000;
 }
 .emain-signup button{
     background: #db0001;
@@ -97,4 +106,5 @@ nav button{
     font-size: 16px;
     cursor: pointer;
     padding: 15px 30px;
+    
 }
