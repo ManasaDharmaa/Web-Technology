@@ -1,0 +1,25 @@
+#single{
+    display: flex;
+    
+}
+
+#single li{
+    margin-right: 50px;
+
+}
+.navbar{
+    top: 0px;
+  background-color: antiquewhite;
+  
+  position: fixed;
+}
+.img-div{
+    align-items: center;
+    display: flex;
+    width: 80rem;
+    justify-content: space-between;
+}
+.img-div img{
+    width: 25px;
+    height: 25px;
+}

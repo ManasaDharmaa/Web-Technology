@@ -1,0 +1,28 @@
+.navbar{
+    background: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 15px;
+    padding-right: 15px;
+}
+.first{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.second{
+    height: 30px;
+    width: 50px;
+}
+.second img{
+    height: 50px;
+    width: 50px;
+
+}
+li{
+    display: inline-block;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 25px;
+}

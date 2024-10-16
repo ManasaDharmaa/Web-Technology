@@ -1,0 +1,28 @@
+
+body{
+    background-color: black;
+}
+.head{
+    background: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 15px;
+    padding-right: 15px;
+}
+.nav{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.div{
+    height: 30px;
+    width: 50px;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    color:black;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 25px;
+}
